@@ -132,5 +132,5 @@ function Mortgage() {
 };
 
 function notImplemented() {
-  alert('Sorry, this function is not implemented yet.\nCome back soon for updates!');
+  alert('Sorry, this function is not implemented yet.\nCome back for updates.\nSee you soon!');
 }
